@@ -13,7 +13,7 @@ eureka:
       default-zone: http://localhost:8761/eureka/
 
 management:
-  metries:
+  metrics:
     web:
       server:
         auto-time-requests: false
